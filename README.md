@@ -28,7 +28,7 @@ Hey there 👋
 
 
 
-🏫 2025 Graduate from Anna University, Chennai
+🏫 Graduate from Anna University, Chennai
 
 💻 Former Web devlopment Intern at SlashMark, India
 
