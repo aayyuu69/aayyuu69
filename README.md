@@ -30,7 +30,7 @@ Hey there 👋
 
 🏫 Graduate from Anna University, Chennai
 
-💻 Former Web devlopment Intern at SlashMark, India
+💻 Former Data Engineer at Quantrail Data, Chennai,TN India
 
 🖇 Follow me on Linkedin
 
